@@ -4,4 +4,6 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 Creating a new branch is quick.
-6666666666
+<<<<<<< HEAD
+161616616161616
+>>>>>>> featurel
